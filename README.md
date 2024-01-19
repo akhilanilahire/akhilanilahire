@@ -17,4 +17,4 @@ I am Akhil Anil Ahire, a Senior Undergraduate at the Indian Institute of Technol
 ### 🔗 Links 
 - Resume: [Akhil Anil Ahire](#)
 - LinkedIn: [/in/akhil-anil-ahire](https://www.linkedin.com/in/akhil-anil-ahire/)
-- Kaggle: [@akhil_ahire](https://www.kaggle.com/)
+- Kaggle: [@akhilanilahire](https://www.kaggle.com/akhilanilahire)
